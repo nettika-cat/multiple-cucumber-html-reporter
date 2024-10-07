@@ -11,6 +11,7 @@
     "json to html"
   ],
   "main": "lib/generate-report.js",
+  "types": "lib/generate-report.d.ts",
   "license": "MIT",
   "scripts": {
     "release": "release-it",
